@@ -1,0 +1,30 @@
+{
+  "name": "iota-layout-css",
+  "description": "A responsive micro-framework for the grid spec powered by CSS custom properties.",
+  "version": "1.0.0",
+  "author": "Kory Wakefield",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-watch": "^4.3.11"
+  },
+  "homepage": "http://korywakefield.com/iota/",
+  "keywords": [
+    "css",
+    "Sass",
+    "scss",
+    "grid",
+    "column",
+    "row",
+    "layout",
+    "var()",
+    "custom properties"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/korywakefield/iota.git"
+  },
+  "title": "Iota"
+}
